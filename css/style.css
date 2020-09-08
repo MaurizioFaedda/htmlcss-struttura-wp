@@ -8,3 +8,15 @@
     width: 1000px;
     margin:auto;
 }
+
+.header {
+    background-color: red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 200px;
+}
+
+nav {
+    background-color: brown;
+    height: 50px;
+}
