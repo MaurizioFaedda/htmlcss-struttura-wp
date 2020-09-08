@@ -5,7 +5,7 @@
 }
 
 #wrapper {
-    width: 1000px;
+    width: 1200px;
     height: auto;
     margin:auto;
 }
@@ -29,7 +29,7 @@ nav {
 }
 
 
-.barra {
+.asidesx {
 
     height: 600px;
     width: 25%;
@@ -118,5 +118,12 @@ nav {
     background-color: yellow;
     width: 25%;
     height: 400px;
+    float: left;
+}
+
+.end {
+    background-color: green;
+    width: 100%;
+    height: 200px;
     float: left;
 }
