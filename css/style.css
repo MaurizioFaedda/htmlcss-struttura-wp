@@ -107,28 +107,28 @@ nav {
 }
 
 .post {
-    background-color: orange;
+    background-color: pink;
     width: 25%;
     height: 400px;
     float: left;
 }
 
 .comment {
-    background-color: yellow;
+    background-color: white;
     width: 25%;
     height: 400px;
     float: left;
 }
 
 .categories {
-    background-color: orange;
+    background-color: pink;
     width: 25%;
     height: 400px;
     float: left;
 }
 
 .widget {
-    background-color: yellow;
+    background-color: white;
     width: 25%;
     height: 400px;
     float: left;
@@ -138,5 +138,6 @@ nav {
     background-color: white;
     width: 100%;
     height: 200px;
+    border-top: 2px solid black;
     float: left;
 }
