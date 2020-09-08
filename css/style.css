@@ -6,6 +6,7 @@
 
 #wrapper {
     width: 1000px;
+    height: auto;
     margin:auto;
 }
 
@@ -19,4 +20,51 @@
 nav {
     background-color: brown;
     height: 50px;
+}
+
+.container::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.asidesx::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.barra {
+    background-color: black;
+    height: 600px;
+    width: 25%;
+    float: left;
+
+}
+
+.sx::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.pages {
+    background-color: orange;
+    height: 200px;
+    width: 100%;
+    float: left;
+}
+
+.archives {
+    background-color: violet;
+    height: 200px;
+    width: 100%;
+    float: left;
+}
+
+.main {
+    background-color: blue;
+    width: 50%;
+    height: 1000px;
+    float: left;
 }
