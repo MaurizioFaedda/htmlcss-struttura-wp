@@ -28,11 +28,6 @@ nav {
     clear: both;
 }
 
-.asidesx::after {
-    content: "";
-    display: table;
-    clear: both;
-}
 
 .barra {
     background-color: black;
@@ -40,12 +35,6 @@ nav {
     width: 25%;
     float: left;
 
-}
-
-.sx::after {
-    content: "";
-    display: table;
-    clear: both;
 }
 
 .pages {
