@@ -86,3 +86,37 @@ nav {
     height: 400px;
     float: left;
 }
+
+.footer{
+    width: 100%;
+    height: 400px;
+    float: left;
+}
+
+.post {
+    background-color: black;
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+
+.comment {
+    background-color: yellow;
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+
+.categories {
+    background-color: black;
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+
+.widget {
+    background-color: yellow;
+    width: 25%;
+    height: 400px;
+    float: left;
+}
